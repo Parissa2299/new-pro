@@ -1,0 +1,28 @@
+.text1{
+    color: rgb(245, 13, 13)
+    ;
+}
+.main{
+    background-image:url(index.jfif) ; 
+    
+    width: 100%;
+    height: 100px ;
+    background-position: center;
+    
+}
+.bottom{
+    border-style: solid;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    border-color:  rgb(39, 23, 162);
+    background-color: cornflowerblue;
+    margin: 10px;
+    
+
+}
+.bottom:hover{
+    background-color: darkviolet;
+    transition-duration: 1s;
+
+}
